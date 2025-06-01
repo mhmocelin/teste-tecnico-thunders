@@ -22,4 +22,8 @@
     <PackageReference Include="Aspire.Hosting.SqlServer" Version="9.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Application\Services\" />
+  </ItemGroup>
+
 </Project>
