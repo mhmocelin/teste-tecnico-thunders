@@ -15,4 +15,10 @@
     <ProjectReference Include="..\Thunders.TechTest.ServiceDefaults\Thunders.TechTest.ServiceDefaults.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Dtos\Responses\" />
+    <Folder Include="Dtos\Requests\" />
+  </ItemGroup>
+
 </Project>
