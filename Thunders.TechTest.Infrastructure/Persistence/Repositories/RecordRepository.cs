@@ -1,4 +1,5 @@
-﻿using Thunders.TechTest.AppHost.Application.Interfaces;
+﻿using Microsoft.EntityFrameworkCore;
+using Thunders.TechTest.AppHost.Application.Interfaces;
 using Thunders.TechTest.AppHost.Domain.Entities;
 using Thunders.TechTest.Infrastructure.Persistence.Context;
 
